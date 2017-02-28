@@ -22,18 +22,4 @@ body {
   margin-bottom: 20px;
 }
 
-/*
-Fix: Avoid displayin section headers behind navigation bar when
-navigation links are clicked
-https://github.com/twbs/bootstrap/issues/1768
 
-#chicken:before,
-#beef:before,
-#sushi:before {
-  display: block;
-  content: " ";
-  margin-top: -60px;
-  height: 60px;
-  visibility: hidden;
-}
-*/
